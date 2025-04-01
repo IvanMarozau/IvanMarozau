@@ -1,16 +1,56 @@
-## Hi there 👋
+## 👋 Hi there! I'm Ivan Marozau
+### Software Developer | Java | SpringBoot | MicroServices | Web Development | Cloud
 
-<!--
-**IvanMarozau/IvanMarozau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 About Me
+- Experienced in **Java**, **Swift**, and **Kotlin** for cross-platform development.
+- Specialize in **Java**, **SpringBoot**, **Microservices**.
+- Advocate for **clean code**, **efficient architecture**, and **scalable applications**.
+- Always open to new opportunities and collaborations!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+### **Backend Development**
+- Java, SpringBoot, Apache Kafka, RabbitMQ, Hibernate
+- REST API, OpenAPI, Microservices Architecture
+- MySQL, PostgreSQL
+
+### **Frontend Development**
+- TypeScript, JavaScript, React.js
+- HTML, CSS
+
+### **Mobile Development**
+- **iOS:** Swift, SwiftUI, Combine, MLKit
+- **Android:** Kotlin, MVVM, Retrofit, Compose, Koin
+
+### **DevOps & Cloud**
+- Docker, OpenShift
+- AWS Cognito
+
+### **CI/CD & Management Tools**
+- GitHub, GitLab, BitBucket, Azure DevOps
+- Scrum, Kanban, Confluence, Jira
+
+---
+
+## 📂 Projects
+
+| Project Name | Description | Technologies |
+|-------------|------------|--------------|
+| [Game](https://github.com/IvanMarozau/Game) | A turn-based board game implemented in Java. | Java |
+| [iOS Water Balance](https://github.com/IvanMarozau/IOS-Water-Balance) | iOS app that tracks daily water consumption based on different beverage types. | Swift, SwiftUI |
+| [Android Water Balance](https://github.com/IvanMarozau/Android-Water-Balance) | Android app that tracks daily water consumption based on different beverage types. | Kotlin, MVVM |
+| [Blog](https://github.com/IvanMarozau/Blog) | A web-based personal blog simulator. | Java, SpringBoot, HTML, CSS |
+| [Quiz Application](https://github.com/IvanMarozau/Quiz-Application) | A multiplayer quiz platform, using WebSockets for real-time interactions. | Java, SpringBoot, HTML, CSS, WebSockets |
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [Ivan Marozau](https://www.linkedin.com/in/ivan-marozau-398ba7257)
+
+Feel free to reach out for collaborations or discussions! 🚀
+
+
