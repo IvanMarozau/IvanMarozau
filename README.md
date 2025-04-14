@@ -40,12 +40,12 @@
 
 | Project Name | Description | Technologies |
 |-------------|------------|--------------|
-| [Game](https://github.com/IvanMarozau/Game) | A turn-based board game implemented in Java. | Java |
-| [iOS Water Balance](https://github.com/IvanMarozau/IOS-Water-Balance) | iOS app that tracks daily water consumption based on different beverage types. | Swift, SwiftUI |
-| [Android Water Balance](https://github.com/IvanMarozau/Android-Water-Balance) | Android app that tracks daily water consumption based on different beverage types. | Kotlin, MVVM |
-| [Blog](https://github.com/IvanMarozau/Blog) | A web-based personal blog simulator. | Java, SpringBoot, HTML, CSS |
+| [Service App](https://github.com/IvanMarozau/Service-App) | A service marketplace app where users can post local tasks and connect with professionals. | Kotlin, SpringBoot, React, Aws Cognito, TypeScript |
 | [Quiz Application](https://github.com/IvanMarozau/Quiz-Application) | A multiplayer quiz platform, using WebSockets for real-time interactions. | Java, SpringBoot, HTML, CSS, WebSockets |
-
+| [Blog](https://github.com/IvanMarozau/Blog) | A web-based personal blog simulator. | Java, SpringBoot, HTML, CSS |
+| [Android Water Balance](https://github.com/IvanMarozau/Android-Water-Balance) | Android app that tracks daily water consumption based on different beverage types. | Kotlin, MVVM |
+| [iOS Water Balance](https://github.com/IvanMarozau/IOS-Water-Balance) | iOS app that tracks daily water consumption based on different beverage types. | Swift, SwiftUI |
+| [Game](https://github.com/IvanMarozau/Game) | A turn-based board game implemented in Java. | Java |
 ---
 
 ## 📫 Connect with Me
